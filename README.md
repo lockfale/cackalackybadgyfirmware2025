@@ -5,6 +5,9 @@ Firmware for the CackalackyBadgy from CackalackyCon 2025
 
 Now that [CackalackyCon 2025](https://cackalackycon.org/index.html) is over, we'll post the developers version of the firmware that was used for debugging and testing as well as more information about the badge and capabilities.
 
+# The Largely Unread Manual
+At opening ceremony, everyone was directed to read the [manual](https://github.com/lockfale/cackalackybadgyfirmware2025/blob/main/media/cyberpartner_manual_v1.pdf). Sadly, very few did.
+
 ## Those responsible
 ### Hardware Design
 * [@melvin2001](https://github.com/melvin2001)
