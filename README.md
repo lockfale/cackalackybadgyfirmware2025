@@ -15,7 +15,7 @@ Now that [CackalackyCon 2025](https://cackalackycon.org/index.html) is over, we'
 
 ## Links
 * [CackalackyCon](https://cackalackycon.org/index.html)
-* [Cackalacky Badgy firmware 2024](https://github.com/lockfale/cackalackabadgyfirmware2024)
+* [Cackalacky Badgy firmware 2024](https://github.com/lockfale/cackalackybadgyfirmware2024)
 * [MQTT Example](https://github.com/lockfale/mqtt-example)
-* [psmitty7373's badge client](https://github.com/psmitty7373/badge_client)
-* [mira's badge script](https://gist.github.com/ArgentumCation/bf65f4cf39e4c94eed7aa3b27dd20bce)
+* [psmitty7373's Badge Client](https://github.com/psmitty7373/badge_client)
+* [Mira's Badge Script](https://gist.github.com/ArgentumCation/bf65f4cf39e4c94eed7aa3b27dd20bce)
