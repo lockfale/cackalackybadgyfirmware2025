@@ -20,6 +20,8 @@ At opening ceremony, everyone was directed to read the [manual](https://github.c
 
 ## Links
 * [CackalackyCon](https://cackalackycon.org/index.html)
+* [persinac's badge backend writeup](https://medium.com/@persinac/c-ck-l-cky-con-2025-d-day-technical-retro-4c445f3e2a3d)
+* [working-as-designed's badge firmware writeup](https://working-as-designed.github.io/2025/05/28/cackalackybadgy-2025.html)
 * [Cackalacky Badgy firmware 2024](https://github.com/lockfale/cackalackybadgyfirmware2024)
 * [MQTT Example](https://github.com/lockfale/mqtt-example)
 * [psmitty7373's Badge Client](https://github.com/psmitty7373/badge_client)
