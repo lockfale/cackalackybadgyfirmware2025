@@ -17,7 +17,9 @@ At opening ceremony, everyone was directed to read the [manual](https://github.c
 * [@nutcrunch](https://github.com/persinac)
 * [@melvin2001](https://github.com/melvin2001)
 * [@clarkehackworth](https://github.com/clarkehackworth)
-
+### Sprites
+* [@Corvidra](https://github.com/GlitchesandGiggles)
+* [@working-as-designed](https://github.com/working-as-designed)
 ### Everything Server/Infra related
 * [@nutcrunch](https://github.com/persinac)
 
