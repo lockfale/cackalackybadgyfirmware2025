@@ -18,6 +18,9 @@ At opening ceremony, everyone was directed to read the [manual](https://github.c
 * [@melvin2001](https://github.com/melvin2001)
 * [@clarkehackworth](https://github.com/clarkehackworth)
 
+### Everything Server/Infra related
+* [@nutcrunch](https://github.com/persinac)
+
 ## Links
 * [CackalackyCon](https://cackalackycon.org/index.html)
 * [persinac's badge backend writeup](https://medium.com/@persinac/c-ck-l-cky-con-2025-d-day-technical-retro-4c445f3e2a3d)
