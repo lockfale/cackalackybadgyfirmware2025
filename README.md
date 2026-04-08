@@ -1,5 +1,7 @@
 # cackalackybadgyfirmware2025
-Firmware for the CackalackyBadgy from CackalackyCon 2025
+Firmware and source code for the CackalackyBadgy from CackalackyCon 2025
+
+> **The source code has been released! (07 Apr 2026)** — Almost a full year after the con. Better late than never.
 
 ![alt text](https://github.com/lockfale/cackalackybadgyfirmware2025/blob/main/media/badges.jpg)
 
@@ -125,7 +127,7 @@ Connect at 9600 baud (`pio_monitor` inside the container, or `pio device monitor
 Help          — List available commands
 Status        — Show progress and current state
 Helloworld    — Example of how to use commands
-su <word>     — Become a badge admin
+su [<word>](https://github.com/lockfale/cackalackybadgyfirmware2025/blob/main/src/ccserial.cpp#L592)     — Become a badge admin
 PartnerStats  — Print your CyberPartner stats
 ```
 
