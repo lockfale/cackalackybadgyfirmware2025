@@ -1,0 +1,9 @@
+{
+	"wifi-ssid": "your-wifi-ssid",
+	"wifi-pass": "your-wifi-password",
+	"server": "your-server.com",
+	"mqtt_server": "your-mqtt-server.com",
+	"mqtt_port": 8883,
+	"mqtt_user": "your-mqtt-username",
+	"mqtt_password": "your-mqtt-password"
+}
